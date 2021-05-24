@@ -10,5 +10,9 @@
 
 **Languages & Topics:**
 
-<code><img height = "20" src = "https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png"></code>
-<code><img height = "20" src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height = "20" src = "https://media.discordapp.net/attachments/703521316057383013/846300489595617320/a.png?width=497&height=497"></code>
+<code><img height = "20" src = "https://media.discordapp.net/attachments/703521316057383013/846300699800895549/a_1.png?width=497&height=497"></code>
+<code><img height = "20" src = "https://media.discordapp.net/attachments/703521316057383013/846300995202187284/a_2.png?width=497&height=497"></code>
+<code><img height = "20" src = "https://media.discordapp.net/attachments/703521316057383013/846301246230364210/a_3.png?width=497&height=497"></code>
+<code><img height = "20" src = "https://media.discordapp.net/attachments/703521316057383013/846301727833849887/58480979cef1014c0b5e4901.png?width=368&height=497"></code>
+<code><img height = "20" src = "https://discord.js.org/static/logo-square.png"></code>
