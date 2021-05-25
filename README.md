@@ -33,4 +33,5 @@
 <img src="https://media.discordapp.net/attachments/703521316057383013/846707399690944552/a.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://hackr.io/tutorials/learn-sql/logo/logo-sql?ver=1610118638" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846712722253938698/a_1.png" height="40" style="vertical-align:down; margin:4px">
 </p>
