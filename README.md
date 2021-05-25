@@ -7,6 +7,7 @@
 ##
 #### <code><u>My Github Statistics </u></code> 
 <img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&theme=gotham&bg_color=0D1117&border_color=0D1117" style="vertical-align:top; margin:4px" height = "150">
+##
 #### <code><u>Languages and Tools I Use</u></code>
 
 <p align="center">
