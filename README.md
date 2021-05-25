@@ -12,10 +12,17 @@
 #### <code><u>Languages and Tools</u></code>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/703521316057383013/846300489595617320/a.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
-<img src="https://media.discordapp.net/attachments/703521316057383013/846300489595617320/a.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+<!--Languages-->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846300489595617320/a.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846300699800895549/a_1.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846303341578420234/a_4.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846300995202187284/a_2.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846301246230364210/a_3.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" style="vertical-align:down; margin:4px">
+<img src="https://media.discordapp.net/attachments/703521316057383013/846301727833849887/58480979cef1014c0b5e4901.png?width=368&height=497" height="40" style="vertical-align:down; margin:4px">
+ 
+<!--Tools-->
+
+<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40" style="vertical-align:down; margin:4px">
 </p>
