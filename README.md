@@ -7,7 +7,7 @@
 ##
 #### <code><u>My Github Statistics </u></code> 
 <img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&theme=gotham&bg_color=0D1117&border_color=0D1117" style="vertical-align:top; margin:4px" height = "150">
-![Metrics](https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta)<!--  <img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">  -->
+<img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta"> <img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">
 
 ##
 #### <code><u>Languages and Tools I Use</u></code>
