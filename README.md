@@ -8,7 +8,7 @@
 
 ##
 #### <code><u>My Github Statistics </u></code> 
-<img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta" height = "180px"><img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117" height = "180px">
+<img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta" height = "170px"><img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117" height = "170px">
 
 <!--Languages and tools-->
 ##
