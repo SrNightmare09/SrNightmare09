@@ -4,16 +4,19 @@
 >
 >Even though I have been programming for around 4 years, I never really considered using Github until I realized how super-duper helpful it is for a programmer.
 
+<!--Github stats-->
+
 ##
 #### <code><u>My Github Statistics </u></code> 
-<img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta"><img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117">
+<img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta" height = "190px"><img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117" height = "190px">
 
+<!--Languages adn tools-->
 ##
 #### <code><u>Languages and Tools I Use</u></code>
 
 <p align="center">
 <!--Languages-->
-
+ 
 <img src="https://media.discordapp.net/attachments/703521316057383013/846300489595617320/a.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846300699800895549/a_1.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846303341578420234/a_4.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
