@@ -1,4 +1,9 @@
-### Hello World! 👋 
+<!--Banner-->
+<img src = "https://media.discordapp.net/attachments/703521316057383013/846856759046045716/output-onlinepngtools.png?width=1080&height=485">
+
+### Hello World! 👋  
+
+<!--Introduction-->
 
 >I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately whatever with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
 >
@@ -38,6 +43,8 @@
 <img src ="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png" style="vertical-align:top; margin:4px" height="40">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846712722253938698/a_1.png" height="40" style="vertical-align:down; margin:4px">
- <br />
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&theme=gotham&bg_color=0D1117&border_color=0D1117" style="vertical-align:top; margin:4px" height="150">
+<br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&bg_color=0D1117&border_color=0D1117" height = "115px">
 </p>
+
+##
