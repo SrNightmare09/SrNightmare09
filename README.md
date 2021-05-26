@@ -3,23 +3,23 @@
 <!--Banner-->
 <img src = "https://media.discordapp.net/attachments/703521316057383013/846856759046045716/output-onlinepngtools.png?width=1080&height=485">
 
-### Hello World! 👋  
+<br/>
+<h2><samp><u>Hello World! 👋 </u></samp></h2> 
 
 <!--Introduction-->
-
->I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately whatever with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
->
->Even though I had been programming for around four years, I in no way considered the use of Github until I discovered how super-duper beneficial it is for a programmer.
-
+<p align = "center"><samp>
+I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately whatever with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
+Even though I had been programming for around four years, I in no way considered the use of Github until I discovered how super-duper beneficial it is for a programmer.
+</samp></p>
 <!--Github stats-->
 
 ##
-#### <code><u>My Github Statistics</u></code>
+### <code><u>My Github Statistics</u></code>
 <img src = "https://metrics.lecoq.io/SrNightmare09?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FCalcutta" height = "170px"><img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117&custom_title=Github%20Statistics" height = "170px">
 
 <!--Languages and tools-->
 ##
-#### <code><u>Languages and Tools I Use</u></code>
+### <code><u>Languages and Tools I Use</u></code>
 <br />
 
 <p align="center">
