@@ -4,7 +4,7 @@
 <img src = "https://media.discordapp.net/attachments/703521316057383013/846856759046045716/output-onlinepngtools.png?width=1080&height=485">
 
 <br/>
-<h2><samp><u>Hello World! 👋 </u></samp></h2> 
+<h2><samp><u>Hello World!👋 </u></samp></h2> 
 
 <!--Introduction-->
 <p align = "center"><samp>
