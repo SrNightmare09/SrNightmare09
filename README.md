@@ -30,8 +30,9 @@ Even though I had been programming for around four years, I in no way considered
  <img src="https://media.discordapp.net/attachments/703521316057383013/846303852919783434/a_5.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846300995202187284/a_2.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846301246230364210/a_3.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+  <img src="https://media.discordapp.net/attachments/703521316057383013/851313092185161808/a_1.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
+ <img src="https://media.discordapp.net/attachments/703521316057383013/851312476925984768/a.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
 <img src="https://media.discordapp.net/attachments/703521316057383013/846301727833849887/58480979cef1014c0b5e4901.png?width=368&height=497" height="40" style="vertical-align:down; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" height="40" style="vertical-align:down; margin:4px">
 
 <!--Tools-->
 
