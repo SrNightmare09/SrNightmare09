@@ -46,5 +46,4 @@ Even though I had been programming for around four years, I in no way considered
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117" height = "199px">
 </p>
-
 <hr>
