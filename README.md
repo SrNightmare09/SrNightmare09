@@ -8,7 +8,7 @@
 
 <!--Introduction-->
 <p align = "center"><samp>
-I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately whatever with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
+I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately anything with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
 Even though I had been programming for around four years, I in no way considered the use of Github until I discovered how super-duper beneficial it is for a programmer.
 </samp></p>
 <!--Github stats-->
