@@ -36,13 +36,13 @@ Even though I had been programming for around four years, I in no way considered
 
 <!--Tools-->
 
-<img src="https://media.discordapp.net/attachments/703521316057383013/846304286831804446/a_6.png?width=497&height=497" height="40" style="vertical-align:down; margin:4px">
-<img src="https://media.discordapp.net/attachments/703521316057383013/847176922777255936/a.png" height="40" style="vertical-align:down; margin:4px">
-<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40" style="vertical-align:down; margin:4px">
-<img src="https://media.discordapp.net/attachments/703521316057383013/846707399690944552/a.png" height="40" style="vertical-align:down; margin:4px">
-<img src ="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png" style="vertical-align:top; margin:4px" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="40" style="vertical-align:down; margin:4px">
-<img src="https://media.discordapp.net/attachments/703521316057383013/846712722253938698/a_1.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/git.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
+<img src = "./images/language-icons/sublime.png" style="vertical-align:top; margin:4px" height="40">
+<img src="./images/language-icons/atom.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/unity.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
