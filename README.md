@@ -40,9 +40,6 @@ Even though I had been programming for around four years, I in no way considered
 <img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
-<img src = "./images/language-icons/sublime.png" style="vertical-align:top; margin:4px" height="40">
-<img src="./images/language-icons/atom.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/unity.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
