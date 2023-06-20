@@ -17,7 +17,6 @@ Even though I had been programming for around four years, I in no way considered
 ### <code><u>My Github Statistics</u></code>
 <img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117&custom_title=Github%20Statistics&include_all_commits=true" height = "170px">
 
-###### *If the image doesn't load, please refresh your page*
 <!--Languages and tools-->
 ##
 ### <code><u>Languages and Tools I Use</u></code>
