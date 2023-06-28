@@ -1,45 +1,5 @@
-<!-- GITHUB README PROFILE -->
+### Languages: <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'> <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
+### Frameworks/Libraries:<img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white'> <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+### Tools: <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'> <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white'>
 
-<!--Banner-->
-<img src = "./images/profile-readme-banner.png" alt = "profile banner">
-
-<br/>
-<h2><samp><u>Hello World!👋 </u></samp></h2> 
-
-<!--Introduction-->
-<p align = "center"><samp>
-I'm SrNightmare09, a passionate, self-taught programmer. I revel in coding a lot due to the reality that you can do ultimately anything with no barriers. Coding additionally taught me a way to examine a issue from unique perspectives; that we continually have two methods of tracking down a solution - the tough manner and the clever manner.
-Even though I had been programming for around four years, I in no way considered the use of Github until I discovered how super-duper beneficial it is for a programmer.
-</samp></p>
-<!--Github stats-->
-
-##
-### <code><u>My Github Statistics</u></code>
-<img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117&custom_title=Github%20Statistics&include_all_commits=true" height = "170px">
-
-<!--Languages and tools-->
-##
-### <code><u>Languages and Tools I Use</u></code>
-<br />
-
-<p align="center">
-<!--Languages-->
- 
-<img src="./images/language-icons/csharp.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/cpp.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/python.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/html.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="./images/language-icons/css.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/javascript.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/java.png" height="40" style="vertical-align:down; margin:4px">
-
-<!--Tools-->
-
-<img src="./images/language-icons/git.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
-<br />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
-</p>
-<hr>
+![Metrics](https://beta-metrics.lecoq.io/SrNightmare09?template=classic&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
